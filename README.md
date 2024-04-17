@@ -1,2 +1,3 @@
 # PA-Consulting-Data-Science
-Women in Tech: Python for Data Science PA Consulting course
+PA Women in Tech - Python for Data Science Spring 2023 Coding Course
+
